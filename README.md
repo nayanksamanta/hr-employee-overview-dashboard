@@ -100,4 +100,4 @@ Project Type: Excel Data Automation & Dashboard Assignment
 Mentorship Program: SURE TRUST
 
 ## 🖥️ Dashboard Preview:
-## Dashboard Interaction <a href="[https://github.com/nayanksamanta/Macro-Enabled-Sales-Dashboard/blob/main/Dashboard.png](https://github.com/nayanksamanta/hr-employee-overview-dashboard/blob/main/HR_excel_dashboard.png)">View Dashboard</a>
+## Dashboard Interaction <a href="https://github.com/nayanksamanta/hr-employee-overview-dashboard/blob/main/HR_excel_dashboard.png">View Dashboard</a>
